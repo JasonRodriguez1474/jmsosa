@@ -1,8 +1,8 @@
-## Welcome, but I'm pretyy sure you're in the wrong place!
+## Welcome, but I'm pretty sure you're in the wrong place!
 
 This homepage was made using github pages, but it doesn't really do much unfortunately. 
 
-Please check out our [Shop Page](https://shop.jmsosa.me) or the [Web Novels page](https://webnovels.jmsosa.me)!
+Please check out our [Shop Page](https://shop.jmsosa.me) or the [Web Novels page](https://webnovels.jmsosa.me) as that's probably what you're looking for!
 
 
 ## Still Need Help? Want More Info?
